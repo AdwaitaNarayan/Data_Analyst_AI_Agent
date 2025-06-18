@@ -1,0 +1,10 @@
+Product,Region,Month,Sales,Profit
+Laptop,North,January,1200,300
+Phone,North,January,850,180
+Tablet,North,January,600,120
+Laptop,South,February,1300,310
+Phone,South,February,900,200
+Tablet,South,February,700,150
+Laptop,East,March,1100,280
+Phone,East,March,870,190
+Tablet,East,March,650,140
